@@ -1,3 +1,9 @@
+NewBranch1
+Hello,
+
+I am File of Branch 1 
+
+NewBranch2
 Hey,
 
 I am File of Branch 2
